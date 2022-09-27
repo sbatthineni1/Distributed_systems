@@ -28,20 +28,20 @@ def semDestroy(thread_num):
     pass
 
 def initializeMutex(thread_num):
-    #Shows the list
+    #initialize mutex
     pass
 
 def Traverse(thread_num):
-    #Shows the list
+    #Traverse
     pass
 
 
 def threadCreate(thread_num):
-    #Shows the list
+    #thread create
     pass
 
 def threadJoin(thread_num):
-    #Shows the list
+    #thread join
     pass
  
 
